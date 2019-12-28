@@ -1,0 +1,7 @@
+fastapi
+python-multipart
+uvicorn
+spacy
+flair
+gensim
+tiny_tokenizer
