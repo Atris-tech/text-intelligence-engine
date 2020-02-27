@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TextIntelligenceEngine.iml" filepath="$PROJECT_DIR$/.idea/TextIntelligenceEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core_server/.idea/core_server.iml" filepath="$PROJECT_DIR$/../core_server/.idea/core_server.iml" />
     </modules>
   </component>
 </project>
